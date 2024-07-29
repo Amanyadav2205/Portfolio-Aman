@@ -12647,7 +12647,7 @@
                   (0, f.jsx)("h2", {
                     className: "animate__animated animate__slideInLeft occ",
                     children:
-                      "A Professional Frontend Developer based in Bhilai , CG.",
+                      "A Passionate Fullstack Developer based in Bhilai , CG.",
                   }),
                 ],
               }),
@@ -12698,7 +12698,7 @@
                     className: "para2",
                     "data-aos": "fade-up",
                     children: [
-                      "I'm Aman Yadav, an 21-year-old CS student at ITM University Gwalior, and I'm really passionate about front-end development. As I delve into my studies, I find myself drawn to technologies like HTML, CSS, GSAP and JavaScript, which allow me to create visually appealing and user-friendly websites.",
+                      "I'm Aman Yadav, an 21-year-old CS student at ITM University Gwalior, and I'm really passionate about full stack development. As I delve into my studies, I find myself drawn to technologies like HTML, CSS, GSAP and JavaScript, which allow me to create visually appealing and user-friendly websites.",
                       (0, f.jsx)("br", {}),
                       (0, f.jsx)("br", {}),
                       (0, f.jsx)("span", {
